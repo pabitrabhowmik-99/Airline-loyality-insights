@@ -1,5 +1,5 @@
-# Airline-loyality-insights
-Customer loyality program data analysis using Power BI
+# Airline-loyalty-insights
+Customer loyalty program data analysis using Power BI
 
 About the data set:
 
